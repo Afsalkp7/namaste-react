@@ -16,3 +16,6 @@
 - DIagonostic - show error in user side
 - Error handling
 - Tree Shaking - Remove Un use code
+
+# JSX
+- Transplited before it reaches th JS engine - done by PARCEL - Babel 
