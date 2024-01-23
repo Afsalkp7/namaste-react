@@ -19,3 +19,8 @@
 
 # JSX
 - Transplited before it reaches th JS engine - done by PARCEL - Babel 
+- Use camel case on attributes
+
+-We can call react element inside a component using curly braces "{}"
+-We can call function component in another component with 3 types
+-If function component name is "Test" <Test />,<Test></Test>,{Test()}
